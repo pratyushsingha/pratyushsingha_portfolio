@@ -5,7 +5,6 @@ import { Link } from "@radix-ui/themes";
 import { I_Education } from "@/types/project";
 import { bricolage_grotesque, inter } from "@/utils/fonts";
 import Title from "./ui/Title";
-import { useTheme } from "next-themes";
 import { useContext } from "react";
 import { DarkModeContext } from "@/context/DarkModeContext";
 
