@@ -77,4 +77,22 @@ const data: Project[] = [
     link: "https://pratyushsingha.github.io/GitViewer",
     source: "https://github.com/pratyushsingha/GitViewer",
   },
+  {
+    logo: "/vscode.png",
+    title: "GitCode",
+    description:
+      "A chrome extension that bridges the repository and your local workspace.",
+    techStack: ["Javascript", "HTML", "CSS", "Chrome Extension"],
+    link: "https://gitcode.zenux.live",
+    source: "https://github.com/pratyushsingha/Git_Code",
+  },
+  {
+    logo: "/valentine.png",
+    title: "My Valentine",
+    description:
+      "Create your own valentine page in simple clicks.Propose Your Juillet in a Nerdy Way ",
+    techStack: ["Shadcn", "Magic UI", "Prisma", "Postgres", "NextJS"],
+    link: "https://myvalentine.live/",
+    source: "https://github.com/pratyushsingha/Git_Code",
+  },
 ];
