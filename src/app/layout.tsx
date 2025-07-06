@@ -56,7 +56,7 @@ export default function RootLayout({
           <Script
             defer
             data-domain="pratyushsinghaaa.vercel.app"
-            src="https://insightbolt.vercel.app/tracking-script.js"
+            src="https://insightbolt-gray.vercel.app/tracking-script.js"
           />
         </body>
       </DarkModeProvider>
