@@ -7,6 +7,7 @@ import DarkModeProvider from "@/context/DarkModeContext";
 import { Toaster } from "sonner";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Pratyush Singha - Full Stack Developer",
@@ -52,6 +53,11 @@ export default function RootLayout({
             <Analytics />
             <Footer />
           </Theme>
+          <Script
+            defer
+            data-domain="pratyushsinghaaa.vercel.app"
+            src="https://insightbolt.vercel.app/tracking-script.js"
+          />
         </body>
       </DarkModeProvider>
     </html>
