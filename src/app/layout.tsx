@@ -55,7 +55,7 @@ export default function RootLayout({
           </Theme>
           <Script
             defer
-            data-domain="pratyushsinghaaa.vercel.app"
+            data-domain="https://pratyushsinghaaa.vercel.app"
             src="https://insightbolt.vercel.app/tracking-script.js"
           />
         </body>
