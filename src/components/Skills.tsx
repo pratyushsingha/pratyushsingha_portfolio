@@ -38,8 +38,6 @@ const data: string[] = [
   "MongoDB",
   "REST APIs",
   "GitHub",
-  "Vercel",
-  "VS Code",
   "Redux",
   "Zustand",
   "Zod",
@@ -48,4 +46,5 @@ const data: string[] = [
   "AWS",
   "Docker",
   "Nginx",
+  "Linux"
 ];

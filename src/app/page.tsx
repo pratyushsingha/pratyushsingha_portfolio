@@ -10,6 +10,9 @@ import Contact from "@/components/Contact";
 import { motion } from "framer-motion";
 import { Link, Avatar as Picture } from "@radix-ui/themes";
 
+const TypedScrollLink = ScrollLink as unknown as React.FC<any>;
+
+
 export default function Home() {
   return (
     <motion.div
@@ -53,7 +56,7 @@ export default function Home() {
           </div>
           <div className="mt-10">
             <RainbowButton>
-              <ScrollLink
+              <TypedScrollLink
                 to="contact-section"
                 activeClass="active"
                 smooth={true}
@@ -61,7 +64,7 @@ export default function Home() {
                 duration={1100}
               >
                 Get in touch
-              </ScrollLink>
+              </TypedScrollLink>
             </RainbowButton>
           </div>
         </div>

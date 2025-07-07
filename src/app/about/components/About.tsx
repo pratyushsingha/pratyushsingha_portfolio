@@ -46,9 +46,8 @@ const About = () => {
 
         {data.length > 3 && (
           <div
-            className={`flex justify-center mt-5 ${
-              isMore ? "hidden" : "block"
-            }`}
+            className={`flex justify-center mt-5 ${isMore ? "hidden" : "block"
+              }`}
           >
             <Badge
               color="gray"
@@ -126,6 +125,8 @@ const data: I_About[] = [
   {
     year: 2024,
     events: [
+      "Started getting freelance works",
+      "Selected for the smart india hackathon finale",
       "Built 3 Full stack innovative projects and on the way to build more. 🚀",
       "Attended Couple of hackathons,tried my best to solve the problems and learned a lot. 🏆",
       "Started to learn backend, explored Node.js, Express, and MongoDB, and built a few RESTful APIs. 🌐",

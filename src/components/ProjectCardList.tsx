@@ -31,7 +31,7 @@ const data: Project[] = [
     logo: "/threads.svg",
     title: "Threads",
     description:
-      "A social media application, exactly looks like the UI of Threads. This project replicates core features such as anonymous posting threads, commenting on threads, user suggestions, following users, and real-time notifications.",
+      "A social media application, exactly looks like the UI of Threads.",
     techStack: [
       "React",
       "Shadcn",
@@ -46,6 +46,69 @@ const data: Project[] = [
     ],
     link: "https://xtwit.vercel.app",
     source: "https://github.com/pratyushsingha/threads",
+  },
+  {
+    logo: "/pngwing.com.png",
+    title: "Hexafalls Mystery Mode",
+    description:
+      "Hexafalls hackathon website in mystery mode.",
+    techStack: [
+      "React",
+      "Shadcn",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    link: "https://mystery.hexafalls.tech/",
+  },
+  {
+    logo: "/pngwing.com.png",
+    title: "insightbolt",
+    description:
+      "Lightning Fast Analytics for your site.f",
+    techStack: [
+      "Next.js",
+      "Prisma",
+      "Zustand",
+      "Docker",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Recharts"
+    ],
+    link: "https://insightbolt-gray.vercel.app",
+    source: "https://github.com/pratyushsingha/Insightbolt"
+  },
+  {
+    logo: "/image.png",
+    title: "ResumeReveal",
+    description:
+      "Spice up your job search with a dash ofhumoror get serious insights.",
+    techStack: [
+      "React",
+      "Gemini Api",
+      "Tailwind CSS",
+      "ShadCN"
+    ],
+    link: "https://resumereveal.vercel.app/",
+    source: "https://github.com/pratyushsingha/Resume_Reveal"
+  },
+
+  {
+    logo: "/vscode.png",
+    title: "GitCode",
+    description:
+      "A chrome extension that bridges the repository and your local workspace.",
+    techStack: ["Javascript", "HTML", "CSS", "Chrome Extension"],
+    link: "https://gitcode.zenux.live",
+    source: "https://github.com/pratyushsingha/Git_Code",
+  },
+  {
+    logo: "/valentine.png",
+    title: "My Valentine",
+    description:
+      "Create your own valentine page in simple clicks.Propose Your Juillet in a Nerdy Way ",
+    techStack: ["Shadcn", "Magic UI", "Prisma", "Postgres", "NextJS"],
+    link: "https://myvalentine.live/",
+    source: "https://github.com/pratyushsingha/Git_Code",
   },
   {
     logo: "/clikit.png",
@@ -76,23 +139,5 @@ const data: Project[] = [
     techStack: ["HTML", "Tailwind CSS", "Javascript", "Github API"],
     link: "https://pratyushsingha.github.io/GitViewer",
     source: "https://github.com/pratyushsingha/GitViewer",
-  },
-  {
-    logo: "/vscode.png",
-    title: "GitCode",
-    description:
-      "A chrome extension that bridges the repository and your local workspace.",
-    techStack: ["Javascript", "HTML", "CSS", "Chrome Extension"],
-    link: "https://gitcode.zenux.live",
-    source: "https://github.com/pratyushsingha/Git_Code",
-  },
-  {
-    logo: "/valentine.png",
-    title: "My Valentine",
-    description:
-      "Create your own valentine page in simple clicks.Propose Your Juillet in a Nerdy Way ",
-    techStack: ["Shadcn", "Magic UI", "Prisma", "Postgres", "NextJS"],
-    link: "https://myvalentine.live/",
-    source: "https://github.com/pratyushsingha/Git_Code",
   },
 ];
