@@ -1,3 +1,4 @@
+
 "use client";
 import ProjectCardList from "../components/ProjectCardList";
 import Skills from "@/components/Skills";
@@ -9,7 +10,7 @@ import About from "./about/components/About";
 import Contact from "@/components/Contact";
 import { motion } from "framer-motion";
 import { Link, Avatar as Picture } from "@radix-ui/themes";
-
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const TypedScrollLink = ScrollLink as unknown as React.FC<any>;
 
 
