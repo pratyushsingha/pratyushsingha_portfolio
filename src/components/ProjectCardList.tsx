@@ -49,22 +49,9 @@ const data: Project[] = [
   },
   {
     logo: "/pngwing.com.png",
-    title: "Hexafalls Mystery Mode",
-    description:
-      "Hexafalls hackathon website in mystery mode.",
-    techStack: [
-      "React",
-      "Shadcn",
-      "Tailwind CSS",
-      "Framer Motion"
-    ],
-    link: "https://mystery.hexafalls.tech/",
-  },
-  {
-    logo: "/pngwing.com.png",
     title: "insightbolt",
     description:
-      "Lightning Fast Analytics for your site.f",
+      "Lightning Fast Analytics for your site.add single line of code in your project and boommm!!!!",
     techStack: [
       "Next.js",
       "Prisma",
@@ -91,7 +78,19 @@ const data: Project[] = [
     link: "https://resumereveal.vercel.app/",
     source: "https://github.com/pratyushsingha/Resume_Reveal"
   },
-
+  {
+    logo: "/pngwing.com.png",
+    title: "Hexafalls Mystery Mode",
+    description:
+      "Hexafalls hackathon website in mystery mode organized by JIS University.",
+    techStack: [
+      "React",
+      "Shadcn",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    link: "https://mystery.hexafalls.tech/",
+  },
   {
     logo: "/vscode.png",
     title: "GitCode",
@@ -110,27 +109,7 @@ const data: Project[] = [
     link: "https://myvalentine.live/",
     source: "https://github.com/pratyushsingha/Git_Code",
   },
-  {
-    logo: "/clikit.png",
-    title: "Clikit - URL shortener",
-    description:
-      "Clikit is a URL shortener offering advanced features like URL analytics and custom domain integration.It works on a freemium model, with a clean, user-friendly interface.",
-    techStack: [
-      "React",
-      "Shadcn",
-      "Tailwind CSS",
-      "NodeJS",
-      "MongoDB",
-      "Zustand",
-      "Express JS",
-      "Razorpay",
-      "Docker",
-      "Nginx",
-      "Aws Ec2",
-    ],
-    link: "https://app.clikit.live",
-    source: "https://github.com/pratyushsingha/clikit",
-  },
+
   {
     logo: "/github.png",
     title: "GitViewer",
