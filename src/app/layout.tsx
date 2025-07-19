@@ -58,6 +58,7 @@ export default function RootLayout({
             data-domain="pratyushsinghaaa.vercel.app"
             src="https://insightbolt-gray.vercel.app/tracking-script.js"
           />
+          <script defer src="https://cloud.umami.is/script.js" data-website-id="63d61909-f1ad-41ed-b2bf-ac2132c961b7"></script>
         </body>
       </DarkModeProvider>
     </html>
