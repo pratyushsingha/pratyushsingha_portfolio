@@ -58,7 +58,7 @@ export default function RootLayout({
             data-domain="pratyushsinghaaa.vercel.app"
             src="https://insightbolt-gray.vercel.app/tracking-script.js"
           />
-          <script defer data-domains="localhost:3001" src="http://localhost:3000/script.js"></script>
+          <script defer data-domains="pratyushsinghaaa.vercel.app" src="http://localhost:3000/script.js"></script>
           <script defer src="https://cloud.umami.is/script.js" data-website-id="63d61909-f1ad-41ed-b2bf-ac2132c961b7"></script>
           <script async src="https://pub-64d7c9742ee54006ae9f38e02aa8539e.r2.dev/19b7c1d8-6f76-42ba-846a-e16cf3360ab9/script.min.js" data-pid="19b7c1d8-6f76-42ba-846a-e16cf3360ab9"></script>
         </body>
