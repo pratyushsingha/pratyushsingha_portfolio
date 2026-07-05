@@ -97,7 +97,8 @@ const Navbar = () => {
           />
 
           <Link
-            href="https://drive.google.com/file/d/1WSCVBGTU67gzFLItkNpbkYrEfGlmykIr/view?usp=sharing"
+            // href="https://drive.google.com/file/d/1WSCVBGTU67gzFLItkNpbkYrEfGlmykIr/view?usp=sharing"
+            href="https://drive.google.com/file/d/1TPuUBViuy_z4mynRVnjmFi47ke_hycjF/view?usp=sharing"
             target="_blank"
             underline="none"
           >
